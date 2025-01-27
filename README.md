@@ -8,6 +8,6 @@ Kaggele Dataset: [Predictive Maintenance Dataset](https://www.kaggle.com/dataset
 
 ## Experiment File
 Right now I am using the experiment file as the main file as well, But it's recommented to keep your main file and experiment file seprate
-Kaggle File: []()
+Kaggle File: [Predictive Maintenance Notebook](https://www.kaggle.com/code/sharmageetika/predictive-maintenance/output)
 
 ## Streamlit Application
